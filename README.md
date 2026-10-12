@@ -1,39 +1,56 @@
-# Awesome Dynamic Page Layout Management
+<div align="center">
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Tracked Category](https://img.shields.io/badge/Ecosystem-Headless%20CMS%20%26%20Visual%20Builders-blue.svg)](https://github.com/ishandutta2007/Awesome-Dynamic-Page-Layout-Management)
-[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
+![Awesome Dynamic Page Layout Management Banner](assets/banner.svg)
 
-> A curated list of leading **SaaS platforms** and **open-source developer tools** for **Dynamic Page Layout Management**, visual page building, component composition, dynamic zones, and headless content modeling.
+# 🚀 Awesome Dynamic Page Layout Management
 
-Dynamic Page Layout Management empowers developers, product teams, and content editors to compose dynamic web and mobile layouts visually from modular, reusable code components without redeploying code.
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Aeesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Dynamic-Page-Layout-Management"><img src="https://img.shields.io/badge/Ecosystem-Headless%20CMS%20%26%20Visual%20Builders-blue.svg" alt="Tracked Category" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg" alt="License: CC0-1.0" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
----
+<p align="center">
+  <strong>🌟 A curated directory of top-tier SaaS platforms and open-source developer engines for visual page building, component composition, dynamic zones, and headless content modeling.</strong>
+</p>
 
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS & Hosted Platforms](#saas--hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [Architecture & Composition Patterns](#architecture--composition-patterns)
-- [How to Contribute](#how-to-contribute)
-- [License & Disclaimer](#license--disclaimer)
-
----
-
-## Sector Overview & Market Dynamics
-
-The Dynamic Page Layout and Headless CMS market is estimated at **$1.8B – $3.9B in 2025** and projected to reach **$2.0B – $5.4B by 2026** (scaling past **$22B by 2035** at a ~17%–26% CAGR), with visual website and web experience builders contributing an additional **$2.9B – $5.4B**. 
-
-The sector is **moderately fragmented**: enterprise mega-vendors (Salesforce, Adobe AEM, Contentful) capture massive high-ACV corporate contracts, yet the market resists a single "winner-take-all" outcome due to sharp architectural divides between Git-backed code workflows, open-core self-hosted systems (Strapi, Directus, Payload CMS), drag-and-drop React component trees (Builder.io, Puck, GrapesJS), and visual design environments (Webflow).
+</div>
 
 ---
 
-## SaaS & Hosted Platforms
+Dynamic Page Layout Management empowers developers 💻, marketing teams 🎨, and content editors ✍️ to compose dynamic web and mobile layouts visually from modular, reusable code components without redeploying code.
+
+---
+
+## 📑 Table of Contents
+
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS & Hosted Platforms](#️-saas--hosted-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🏗️ Architecture & Composition Patterns](#️-architecture--composition-patterns)
+- [🤝 Support](#-support)
+- [⭐ Star History](#-star-history)
+- [💡 How to Contribute](#-how-to-contribute)
+- [📜 License & Disclaimer](#-license--disclaimer)
+
+---
+
+## 📊 Sector Overview & Market Dynamics
+
+The Dynamic Page Layout and Headless CMS market is estimated at **$1.8B – $3.9B in 2025** and projected to reach **$2.0B – $5.4B by 2026** (scaling past **$22B by 2035** at a ~17%–26% CAGR), with visual website and web experience builders contributing an additional **$2.9B – $5.4B**. 📈
+
+The sector is **moderately fragmented**: enterprise mega-vendors (Salesforce, Adobe AEM, Contentful) capture massive high-ACV corporate contracts, yet the market resists a single "winner-take-all" outcome due to sharp architectural divides between Git-backed code workflows 🐙, open-core self-hosted systems (Strapi, Directus, Payload CMS) 🗄️, drag-and-drop React component trees (Builder.io, Puck, GrapesJS) 🧩, and visual design environments (Webflow) 🎨.
+
+---
+
+## ☁️ SaaS & Hosted Platforms
 
 The table below lists the top commercial SaaS solutions for visual page layout management, component orchestration, and content modeling, sorted descending by company scale (market capitalization, latest venture valuation, or parent company valuation).
 
-| Platform | Company Scale (Valuation / Revenue) | Starting Tier Pricing | Free Tier / Trial Limits | Core Focus & Layout Features |
+| 🏢 Platform | 💰 Company Scale (Valuation / Revenue) | 🏷️ Starting Tier Pricing | 🎁 Free Tier / Trial Limits | ⚡ Core Focus & Layout Features |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Salesforce Dynamic Pages](https://www.salesforce.com/)** | ~$190B Market Cap (NYSE: CRM) | **$25/user/month** (Starter Suite) | **30-day free trial**; full CRM suite evaluation with sample data, no credit card required | Lightning App Builder with dynamic record pages, conditional field visibility rules, component-level permissions, and zero-code responsive layouts. |
 | **[Webflow Enterprise](https://webflow.com/)** | $4.0B Valuation ($200M+ ARR) | **$15/month** (Basic plan, billed annually) | **Free Forever**; up to 2 static pages, 50 CMS items, 20 collections, 1,000 monthly visits on `webflow.io` domain | Visual canvas with CSS/HTML abstractions, component nesting up to 3 layers, 40 collection lists per page, and up to 1M CMS items for enterprise apps. |
@@ -48,11 +65,11 @@ The table below lists the top commercial SaaS solutions for visual page layout m
 
 ---
 
-## Open-Source GitHub Projects
+## 🔓 Open-Source GitHub Projects
 
 Explore top open-source page builders, headless CMS platforms, and low-code dynamic layout engines. Entries are sorted descending by GitHub star count and feature live badges linking directly to each repository's stargazers.
 
-| Project & Repository | Stars | License | Tech Stack & Description |
+| 🛠️ Project & Repository | ⭐ Stars | ⚖️ License | 💻 Tech Stack & Description |
 | :--- | :---: | :---: | :--- |
 | **[Strapi](https://github.com/strapi/strapi)** | [![GitHub stars](https://img.shields.io/github/stars/strapi/strapi?style=social&color=white)](https://github.com/strapi/strapi/stargazers) | MIT | Node.js / TypeScript. Industry-leading open-source headless CMS featuring Dynamic Zones and Repeatable Components for flexible visual page assembly. |
 | **[Payload CMS](https://github.com/payloadcms/payload)** | [![GitHub stars](https://img.shields.io/github/stars/payloadcms/payload?style=social&color=white)](https://github.com/payloadcms/payload/stargazers) | MIT | Next.js / TypeScript / React. Modern fullstack headless CMS and application framework with native block-based layout modeling and local TypeScript APIs. |
@@ -76,35 +93,53 @@ Explore top open-source page builders, headless CMS platforms, and low-code dyna
 
 ---
 
-## Architecture & Composition Patterns
+## 🏗️ Architecture & Composition Patterns
 
 When implementing dynamic page layout management, engineering teams typically choose between four core paradigms:
 
-1. **Dynamic Zones / Block Stacking (Headless CMS pattern):**  
+1. **Dynamic Zones / Block Stacking (Headless CMS pattern):** 🧱  
    Developers define schemas for independent components (`Hero`, `Carousel`, `Features`, `PricingTable`), and content editors stack, order, and populate them in an approved canvas (used by Strapi, Wagtail StreamField, Payload, and Sanity).
-2. **Visual In-Page Composition (Component-to-Canvas pattern):**  
+2. **Visual In-Page Composition (Component-to-Canvas pattern):** 🖼️  
    Production React/Vue components from your actual frontend codebase are registered with a visual editor. Non-technical users assemble pages via drag-and-drop within defined layout constraints (used by Builder.io, Puck, Craft.js, and Plasmic).
-3. **Git-Backed Content Blocks (Developer-first pattern):**  
+3. **Git-Backed Content Blocks (Developer-first pattern):** 📦  
    Page content and layout metadata live inside markdown/JSON files within the Git repository itself, enabling pull requests, branch previews, and full version history (used by TinaCMS).
-4. **Decoupled Data Platforms (BaaS pattern):**  
+4. **Decoupled Data Platforms (BaaS pattern):** 🔌  
    Database-driven architectures where an administrative UI automatically wraps relational schemas, using JSON attributes or relational tables to configure layout hierarchies (used by Directus).
 
 ---
 
-## How to Contribute
+## 🤝 Support
 
-Contributions are welcome! Please help keep this directory accurate, up-to-date, and useful for the community:
+Thank you so much for exploring and supporting **Awesome Dynamic Page Layout Management**! ❤️
 
-1. **Fork** this repository.
-2. **Check criteria**: Ensure your project or SaaS tool is actively maintained and directly related to dynamic page layout management, visual site builders, or block-based content modeling.
-3. **Follow the formatting**:
-   - For SaaS tools: Include specific starting tier pricing, explicit free tier / free trial limits, valuation or revenue metric, and factual features.
-   - For Open-Source projects: Include the GitHub star badge (`style=social&color=white`), SPDX license, tech stack, and star count ranking.
-4. **Submit a Pull Request** with a concise description of your changes.
+If this curated repository has helped you evaluate tools, design architectures, or build better web experiences:
+- ⭐ **Star this repository** to help others discover it!
+- 🍴 **Fork and contribute** by submitting new open-source builders and SaaS platforms.
+- 📢 **Share it** with your fellow developers, engineers, and designer communities.
+- ☕ **Buy me a coffee / Sponsor**: If you'd like to support ongoing research, curation, and maintenance of developer ecosystems, please consider sponsoring via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007). Your support is greatly appreciated! 🙌
 
 ---
 
-## License & Disclaimer
+## ⭐ Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Dynamic-Page-Layout-Management&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Dynamic-Page-Layout-Management&type=date&legend=top-left)
+
+---
+
+## 💡 How to Contribute
+
+Contributions are welcome! Please help keep this directory accurate, up-to-date, and useful for the community:
+
+1. **Fork** 🍴 this repository.
+2. **Check criteria** 🔍: Ensure your project or SaaS tool is actively maintained and directly related to dynamic page layout management, visual site builders, or block-based content modeling.
+3. **Follow the formatting** 📝:
+   - For SaaS tools: Include specific starting tier pricing, explicit free tier / free trial limits, valuation or revenue metric, and factual features.
+   - For Open-Source projects: Include the GitHub star badge (`style=social&color=white`), SPDX license, tech stack, and star count ranking.
+4. **Submit a Pull Request** 🚀 with a concise description of your changes.
+
+---
+
+## 📜 License & Disclaimer
 
 - **License:** Released under [Creative Commons Zero v1.0 Universal](LICENSE) (CC0 1.0).
 - **Disclaimer:** All product names, logos, and brands are property of their respective owners. Company valuations and pricing figures represent publicly available financial disclosures and vendor pricing as of early 2026. This list is community-curated for informational purposes and does not constitute an endorsement.
